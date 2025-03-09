@@ -28,17 +28,12 @@
 
 ### Frontend
 
-<image src="https://skillicons.dev/icons?i=js,ts,html,css,cypress,emotion,react,nextjs,sass,tailwind" />
+<image src="https://skillicons.dev/icons?i=js,ts,html,css,cypress,emotion,react,nextjs,vue,sass,tailwind" />
 
 ### Backend
 
-<image src="https://skillicons.dev/icons?i=deno,express,nestjs,nodejs,postgres,prisma" />
+<image src="https://skillicons.dev/icons?i=deno,express,nestjs,nodejs,postgres,prisma,graphql" />
 
 ### Cloud and DevOps
 
 <image src="https://skillicons.dev/icons?i=aws,bash,cloudflare,docker,dynamodb,grafana,linux,redhat,terraform" />
-
-### Currently learning
-
-<image src="https://skillicons.dev/icons?i=go,java,spring" />
-
